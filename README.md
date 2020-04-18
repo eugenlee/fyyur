@@ -1,4 +1,4 @@
-Fyyur (My code pulled as standalone project from [forked repository](https://github.com/eugenlee/FSND/tree/master/projects/01_fyyur/starter_code))
+Fyyur (My code pulled as standalone project from [forked repo](https://github.com/eugenlee/FSND/tree/master/projects/01_fyyur/starter_code))
 -----
 
 ### Introduction
