@@ -1,4 +1,4 @@
-Fyyur
+Fyyur (My code pulled as standalone project from public repository)
 -----
 
 ### Introduction
