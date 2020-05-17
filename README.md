@@ -141,3 +141,10 @@ To start and run the local development server,
   ```
 
 4. Navigate to Home page [http://localhost:5000](http://localhost:5000)
+
+## Check out my other projects from this course!
+1. [fyyur](https://github.com/eugenlee/fyyur) currently here
+2. [trivia](https://github.com/eugenlee/trivia)
+3. [coffeeshop](https://github.com/eugenlee/coffeeshop)
+4. [flask_kubernetes](https://github.com/eugenlee/flask_kubernetes)
+5. [nba-players](https://github.com/eugenlee/nba-players)
